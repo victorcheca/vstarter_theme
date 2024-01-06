@@ -30,7 +30,7 @@ gulp.task('browser-sync', function() {
     
 
     //browsersync with a php server
-    proxy: "http://localhost:8888/",
+    proxy: "http://localhost:8888/wp_master_test",
     notify: false,
     browser: "google chrome"
     //server: {

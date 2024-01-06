@@ -1,3 +1,4 @@
+<?php /* Template Name: Blog */ ?>
 <?php
 /**
  * The main template file
